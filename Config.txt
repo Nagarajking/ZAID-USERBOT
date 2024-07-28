@@ -3,13 +3,13 @@ from os import getenv
 from dotenv import load_dotenv
 
 
-API_ID = int(6435225) #optional
-API_HASH = "" #optional
+API_ID = int(22889471) #optional
+API_HASH = "5bbcc443b4a1b7fbf2e7da945a247ca3" #optional
 
-SUDO_USERS = list(map(int, ("").split()))
-OWNER_ID = int(1234567890)
+SUDO_USERS = list(map(int, ("22889471").split()))
+OWNER_ID = int(22889471)
 MONGO_URL = "MONGO_URL"
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "6812871211:AAHZu3X_TsmvZ3_ip16eiQyh_9TpLGSHwAM"
 ALIVE_PIC = 'https://telegra.ph/file/3c52a01057865f7511168.jpg'
 ALIVE_TEXT = None
 PM_LOGGER = None
@@ -18,7 +18,7 @@ GIT_TOKEN = None #personal access token
 REPO_URL = "https://github.com/ITZ-ZAID/ZAID-USERBOT"
 BRANCH = "master" #don't change
  
-STRING_SESSION1 = ""
+STRING_SESSION1 = "BQCXGC4eqyK7B_NT4E3hMOdCBCuWRp3IBlVzCrKFdLhoiPgVU6WhNwSr28VlcTqcIzADWz3Kb-csgQg7VBPzrkgo-Oid_rAnvU4WuvUerkKH78HzXffSegmj3SB5a2zHVOvnt7F2v1U21YpGGqVsZJ3hg7Gon8uBQIHj58FRMHrEF9AbmCNXcDYFvWZkkVHIy-d9TTtIDngKqRG6_h9QRGoM_xIZYLFXS9r8gGaqgIuWTZm4zrdDmXgVWosT6byqNzsccvMShHu2QlK5bDO3DzzRuew7fos6jQdlZyRB8rzdNjRlkaszEp5JTDHgjcdAy4snMQC6FG2kGjcpGLCD_wg-AAAAAbjcG8wA"
 STRING_SESSION2 = ""
 STRING_SESSION3 = ""
 STRING_SESSION4 = ""
